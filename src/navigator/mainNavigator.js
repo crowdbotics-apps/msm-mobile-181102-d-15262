@@ -8,7 +8,7 @@ import SideMenu from './sideMenu';
 import BlankScreen014639Navigator from '../features/BlankScreen014639/navigator';
 
 /**
- * new navigators can be imported here
+ * new test navigators can be imported here
  */
 
 const AppNavigator = {
